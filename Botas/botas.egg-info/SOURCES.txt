@@ -1,0 +1,9 @@
+README.md
+setup.py
+botas/__init__.py
+botas/bot.py
+botas.egg-info/PKG-INFO
+botas.egg-info/SOURCES.txt
+botas.egg-info/dependency_links.txt
+botas.egg-info/requires.txt
+botas.egg-info/top_level.txt
